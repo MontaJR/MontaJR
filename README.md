@@ -1,0 +1,5 @@
+- 👋 Hola soy MontaJR
+- 👀 Estoy interesado en la programación
+- 🌱 Estoy aprendiendo diferentes lenguajes de programación
+- 💞️ Voy progresando poco a poco con diferentes lenguajes
+- 📫 Me gusta hacer nuevos proyectos y alcanzar mis metas
