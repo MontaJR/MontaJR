@@ -1,5 +1,5 @@
-- 👋 Hola soy MontaJR
-- 👀 Estoy interesado en la programación
-- 🌱 Estoy aprendiendo diferentes lenguajes de programación
-- 💞️ Voy progresando poco a poco con diferentes lenguajes
-- 📫 Me gusta hacer nuevos proyectos y alcanzar mis metas
+- 👋 Hello, I'm Slowy
+- 👀 I am interested in programming
+- 🌱 I am learning HTML, CSS, JS and LUA
+- 💞️ I am progressing little by little with different languages
+- 📫 I like to do new projects and achieve my goals
